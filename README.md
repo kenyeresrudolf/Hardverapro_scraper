@@ -1,4 +1,4 @@
-# Hardverapro_scraper
+# Hardverapro Scraper
 It is a scraper that collects the GPU offers from a well-known Hungarian craigslist site
 
 It is a python scraper, that queries data from site(s) and automatically upload and visualise it online and create recommendations based on price/value ratio. The output is a searchable dashboard. 
